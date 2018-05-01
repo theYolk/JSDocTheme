@@ -1,0 +1,23 @@
+{
+  "name": "yolkdoctheme",
+  "version": "0.0.0",
+  "description": "A JSDoc template theme for The Yolk",
+  "main": "publish.js",
+  "dependencies": {
+    "@types/node": "^10.0.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "author": "Michael Jonker",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "taffydb": "^2.7.3"
+  }
+}
