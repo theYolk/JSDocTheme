@@ -1,5 +1,5 @@
 {
-  "name": "yolkdoctheme",
+  "name": "jsdoctheme",
   "version": "0.0.0",
   "description": "A JSDoc template theme for The Yolk",
   "main": "publish.js",
